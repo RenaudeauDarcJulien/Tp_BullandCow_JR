@@ -1,0 +1,6 @@
+﻿  objet.cpp
+c:\users\jrena\documents\visual studio 2015\projects\projectbullscows\projectbullscows\objet.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jrena\documents\visual studio 2015\projects\projectbullscows\projectbullscows\objet.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrena\documents\visual studio 2015\projects\projectbullscows\projectbullscows\objet.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  ProjectBullsCows.vcxproj -> C:\Users\jrena\Documents\Visual Studio 2015\Projects\ProjectBullsCows\Debug\ProjectBullsCows.exe
+  ProjectBullsCows.vcxproj -> C:\Users\jrena\Documents\Visual Studio 2015\Projects\ProjectBullsCows\Debug\ProjectBullsCows.pdb (Partial PDB)
