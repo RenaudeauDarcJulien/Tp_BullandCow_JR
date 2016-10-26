@@ -186,6 +186,7 @@ void Game::ShowResultGame()
 void Game::PlayGame()
 {
 	Reset();
+	//Boucle 
 	while (!IsGameWon() && GetCurrentTry() <= GetMaxTries()) {
 		compteur compteurJeu = TestValidWordCheck(GetValidGuess());
 

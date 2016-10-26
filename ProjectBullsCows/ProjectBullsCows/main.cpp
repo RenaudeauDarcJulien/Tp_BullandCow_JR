@@ -9,8 +9,6 @@ int main()
 {
 	bool ChoixRejouer = false;
 	do {
-
-
 		cout << "Jeu de Bull and Cow \n";
 		cout << "Devinne le mot de " << game.GetHiddenWordLength();
 		cout << " lettres qui est un isogramme";
@@ -23,6 +21,7 @@ int main()
 	} while (ChoixRejouer);
 
 	return 0; 
+	//Commentaire test GIT
 }
 
 
